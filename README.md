@@ -4,9 +4,16 @@ Homebrew tap for tools by [thedeceptio](https://github.com/thedeceptio).
 
 ## Usage
 
+Install anything here in one command — the tap is added automatically:
+
 ```bash
-brew tap thedeceptio/tap
-brew install --cask minical
+brew install --cask thedeceptio/tap/minical
+```
+
+Update later with:
+
+```bash
+brew upgrade --cask minical
 ```
 
 ## Apps
